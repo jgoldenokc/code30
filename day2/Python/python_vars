@@ -1,0 +1,23 @@
+# Strings
+name = "Nate"
+print("Name:", name)
+
+# Integers
+age = 39
+print("Age in 67 years:", age + 67)
+
+# Floats (decimals)
+height = 5.9
+print("Height:", height)
+
+# Booleans
+is_human = False
+print("Is human?", is_human)
+
+# Lists
+colors = ["red", "green", "blue"]
+print("Third color:", colors[0])
+
+# Dictionaries
+person = {"name": name, "age": age}
+print("Person's name:", person["name"])
