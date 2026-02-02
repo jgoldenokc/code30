@@ -18,6 +18,7 @@ is_musician = True
 print("Name:", name)
 print("Type of name:", type(name))
 print("Age:", age)
+print("Height:", height)  
 print("Hobbies:", hobbies)
 print("Is musician?", is_musician)
-print("Height:", height)    
+  
